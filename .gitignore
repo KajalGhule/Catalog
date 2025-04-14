@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+.metadata/
+
+# Build output directories
+bin/
+target/
+build/
+
+# Logs
+*.log
+
+# Temporary/backup files
+*.tmp
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
