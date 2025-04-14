@@ -55,8 +55,6 @@ public class Main {
 			System.out.println("Please Enter a correct option....");
 			break;
 		}
-        }while(option!=5);
-       
-	}
-
+       }while(option!=5);
+     }
 }

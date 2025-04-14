@@ -55,7 +55,6 @@ public class ProductRepo {
 	    		existingProduct.setUnitPrice(sc.nextDouble());
 	    		System.out.println("Enter Product Quantity");
 	    		existingProduct.setQuantity(sc.nextInt());
-	    		
 	    		productList.add(existingProduct);
 	    		System.out.println("Product updated successfully !!!!");
 	    		return existingProduct;
